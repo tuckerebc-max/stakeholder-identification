@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stakeholder Identification"
+  short_description: "Identify and prioritize project stakeholders"
+  default_prompt: "Use $stakeholder-identification to identify, map, prioritize, and plan engagement with the stakeholders relevant to this project or decision."
